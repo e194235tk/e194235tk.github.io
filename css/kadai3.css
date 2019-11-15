@@ -1,0 +1,28 @@
+h1{
+    color: crimson;
+    text-align: center;
+    background-color: black;
+    
+}
+
+h2{
+    color: crimson;
+    text-align: center;
+    background-color: black;
+}
+
+h3{
+    color: crimson;
+    
+}
+
+body{
+    background-image: url("../images/background02.jpg");
+    background-attachment: fixed;
+}
+
+p{
+    color: azure;
+}
+
+    

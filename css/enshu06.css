@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    font-family:serif;
+    text-align: center;
+    background-color: black;
+}
+
+p{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+body{
+    background-image: url("../images/mhib.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:contain ;
+    
+    background-origin: content-box;
+}
