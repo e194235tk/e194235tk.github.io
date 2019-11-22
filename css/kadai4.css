@@ -1,0 +1,34 @@
+.Title1{
+    color:black;
+    background-color: coral;
+    text-align: center;
+    
+}
+
+.Subtitle1{
+    color: crimson;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.Subtitle2{
+    color: blueviolet;
+    background-color: lime;
+    text-align: center;
+    
+}
+
+.Title2{
+    color: dimgray;
+    background-color: cornsilk;
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+body{
+    background-image: url("../images/Onpu.jpeg");
+}
