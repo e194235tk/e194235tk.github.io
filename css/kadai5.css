@@ -1,3 +1,5 @@
+
+
 div.title{
     width: 1000px;
     height: 40px;
@@ -73,4 +75,9 @@ div.fotter{
     height: 40px;
     background-color: firebrick;
     margin-top: 20px;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: auto;
 }
