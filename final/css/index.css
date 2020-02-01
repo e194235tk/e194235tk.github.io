@@ -1,0 +1,220 @@
+
+div.title{
+    width: 1000px;
+    height: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: fantasy;
+    text-align: center;
+    background-color: darkgray;
+    margin-bottom: 40px;
+}
+
+div.article{
+    width: 1000;
+    height: 80px;
+    margin-bottom: 40px;
+    background-color: darkgray;
+}
+
+div.menu{
+    font-size: 0;
+    width: 1000px;
+    height: 30px;
+    
+}
+
+div.menu1{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 30px;
+    margin-right: 100px;
+    margin-left: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightseagreen;
+    
+}
+
+div.menu2{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: coral
+}
+
+div.image{
+    font-size: 0;
+    width: 1000px;
+    height: 200px;
+}
+
+div.image1{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    margin-right: 100px;
+    margin-left: 80px;
+    background-image: url("../images/kannu.jpg");
+    overflow: hidden;
+}
+
+div.image1 img{
+  width: 100%;
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition-duration: 0.5s;
+}
+
+div.image1 img:hover{
+  filter: grayscale(0);
+  transition-duration: 0.5s;
+}
+
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    background-image: url("../images/chouhi.jpg");
+    overflow: hidden;
+}
+
+div.image2 img{
+  width: 100%;
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition-duration: 0.5s;
+}
+
+div.image2 img:hover{
+  filter: grayscale(0);
+  transition-duration: 0.5s;
+}
+
+div.menu3{
+    width: 370px;
+    height: 30px;
+    margin-top: 40px;
+    margin-left: 315px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: skyblue;
+}
+
+div.image3{
+    width: 370px;
+    height: 200px;
+    margin-bottom: 40px;
+    margin-left: 315px;
+    background-image: url("../images/bachou.jpg");
+    overflow: hidden;
+}
+
+div.image3 img{
+  width: 100%;
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition-duration: 0.5s;
+}
+
+div.image3 img:hover{
+  filter: grayscale(0);
+  transition-duration: 0.5s;
+}
+
+div.menu4{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 30px;
+    margin-right: 100px;
+    margin-left: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: mediumpurple;
+    
+}
+
+div.menu5{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+div.image4{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    margin-right: 100px;
+    margin-left: 80px;
+    background-image: url("../images/kouchuu.jpg");
+    overflow: hidden;
+}
+
+div.image4 img{
+  width: 100%;
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition-duration: 0.5s;
+}
+
+div.image4 img:hover{
+  filter: grayscale(0);
+  transition-duration: 0.5s;
+}
+
+div.image5{
+    vertical-align: top;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    background-image: url("../images/chouun.jpg");
+    overflow: hidden;
+}
+
+div.image5 img{
+  width: 100%;
+  transform: scale(1.1);
+  cursor: pointer;
+  filter: grayscale(100%);
+  transition-duration: 0.5s;
+}
+
+div.image5 img:hover{
+  filter: grayscale(0);
+  transition-duration: 0.5s;
+}
+
+div.fotter{
+    width: 1000px;
+    height: 40px;
+    margin-top: 40px;
+    
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+    background-image: url("../images/taiger.jpg");
+    background-attachment: fixed;
+}

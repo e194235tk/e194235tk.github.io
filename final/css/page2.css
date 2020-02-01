@@ -1,0 +1,34 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: fantasy;
+    background-color: darkgray;
+    font-size: 30px;
+}
+
+div.image{
+    width: 372px;
+    height: 526px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 314px;
+    background-image: url("../images/chouhi.jpg");
+    filter: hue-rotate(50deg);
+}
+
+div.article{
+    width: 700px;
+    height: 150px;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+div.wrap{
+     width:1000px;
+    margin: 0px auto;
+    background-image: url("../images/taiger.jpg");
+    filter: hue-rotate(310deg);
+    background-attachment: fixed;
+}
