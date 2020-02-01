@@ -6,7 +6,6 @@ div.title{
     font-family: fantasy;
     background-color: darkgray;
     font-size: 30px;
-    font-weight: bold;
 }
 
 div.image{
@@ -23,6 +22,7 @@ div.article{
     width: 700px;
     height: 180px;
     margin-left: 150px;
+    font-weight: bold;
 }
 
 div.wrap{
